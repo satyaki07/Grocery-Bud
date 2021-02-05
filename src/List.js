@@ -1,5 +1,5 @@
 import React from "react";
-import { FaDailymotion, FaEdit, FaTrash } from "react-icons/fa";
+import { FaEdit, FaTrash } from "react-icons/fa";
 const List = ({ items, removeItem, editItem }) => {
   return (
     <div className="grocery-list">
